@@ -1,1 +1,29 @@
 /* Write your CSS here! */
+      img {
+        width: 400px;
+        border-radius: 5px;
+      }
+      p {
+        font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+        font-size: 25px;
+      }
+      #content {
+        margin: 8px;
+        width: 20cm;
+        float: right;
+      }
+      .funParagraph {
+        margin-left: auto;
+        margin-right: auto;
+        color: green;
+        width: 20cm;
+      }
+      div {
+        padding: 210px;
+        filter: blur(1px);
+      }
+      #mainHeading {
+        text-align: center;
+        color: red;
+        font-size: 30px;
+      }
